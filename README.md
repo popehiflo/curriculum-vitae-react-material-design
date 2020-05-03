@@ -1,3 +1,6 @@
+React Curriculum Vitae with Google Material Design/Material UI/Materialize CSS.<br>
+This project has basic structure of the a React website.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
